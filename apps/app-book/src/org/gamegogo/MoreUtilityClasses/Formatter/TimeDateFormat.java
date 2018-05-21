@@ -1,0 +1,29 @@
+package org.gamegogo.MoreUtilityClasses.Formatter;
+
+// Formatting time and date.
+import java.util.*;
+class TimeDateFormat {
+    public static void main(String args[]) {
+        Formatter fmt = new Formatter();
+        Calendar cal = Calendar.getInstance();
+// Display standard 12-hour time format.
+        fmt.format("Display standard 12-hour time format: %tr", cal);
+        System.out.println(fmt);
+        fmt.close();
+// Display complete time and date information.
+        fmt = new Formatter();
+        fmt.format("Display complete time and date information: %tc", cal);
+        System.out.println(fmt);
+        fmt.close();
+// Display just hour and minute.
+        fmt = new Formatter();
+        fmt.format("Display just hour and minute: %tl:%tM", cal, cal);
+        System.out.println(fmt);
+        fmt.close();
+// Display month by name and number.
+        fmt = new Formatter();
+        fmt.format("Display month by name and number: %tB %tb %tm", cal, cal, cal);
+        System.out.println(fmt);
+        fmt.close();
+    }
+}
