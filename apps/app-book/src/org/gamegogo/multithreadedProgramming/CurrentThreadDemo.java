@@ -31,7 +31,8 @@ public class CurrentThreadDemo {
         }
     }
 
-    public static void MultiException() throws InterruptedException, IllegalAccessException, ArithmeticException {
+    public static void MultiException() throws InterruptedException,
+            IllegalAccessException, ArithmeticException {
         for (int i = 0; i < 2; i++) {
             Thread.sleep(1000);
         }

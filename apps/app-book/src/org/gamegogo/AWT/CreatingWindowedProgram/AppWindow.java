@@ -2,10 +2,9 @@ package org.gamegogo.AWT.CreatingWindowedProgram;
 // Create an AWT-based application.
 
 import java.awt.*;
-import java.awt.event.*;
-import java.applet.*;
 
 // Create a frame window.
+// A Frame is a top-level window with a title and a border.
 public class AppWindow extends Frame {
     String keymsg = "This is a test.";
     String mousemsg = "";

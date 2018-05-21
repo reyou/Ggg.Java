@@ -24,7 +24,13 @@ public class XOR extends Applet {
             }
         });
     }
+    /*Paints the container. This forwards the paint to any lightweight components that
+    are children of this container. If this method is reimplemented, super.paint(g)
+    should be called so that lightweight components are properly rendered.
+    If a child component is entirely clipped by the current clipping setting in
+    g, paint() will not be forwarded to that child.*/
     public void paint(Graphics g) {
+        super.paint(g);
         g.drawLine(0, 0, 100, 100);
         g.drawLine(0, 100, 100, 0);
         g.setColor(Color.blue);
