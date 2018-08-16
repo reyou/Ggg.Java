@@ -11,7 +11,7 @@ public class ChainExcDemo {
         (The cause is the throwable that caused this throwable to get thrown.)
 This method can be called at most once. It is generally called from within
 the constructor, or immediately after creating the throwable.*/
-        e.initCause(new ArithmeticException("cause"));
+        e.initCause(new ArithmeticException("cause by ggg example"));
 
         throw e;
     }
