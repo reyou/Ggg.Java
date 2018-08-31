@@ -19,15 +19,18 @@ class StreamDemo {
         Stream<Integer> myStream = myList.stream();
 // Obtain the minimum and maximum value by use of min(),
 // max(), isPresent(), and get().
+// https://docs.oracle.com/javase/8/docs/api/java/util/Optional.html
         Optional<Integer> minVal = myStream.min(Integer::compare);
-        if(minVal.isPresent()) System.out.println("Minimum value: " +
-                minVal.get());
+        if(minVal.isPresent()) {
+            System.out.println("Minimum value: " + minVal.get());
+        }
 // Must obtain a new stream because previous call to min()
 // is a terminal operation that consumed the stream.
         myStream = myList.stream();
         Optional<Integer> maxVal = myStream.max(Integer::compare);
-        if(maxVal.isPresent()) System.out.println("Maximum value: " +
-                maxVal.get());
+        if(maxVal.isPresent()) {
+            System.out.println("Maximum value: " +  maxVal.get());
+        }
 // Sort the stream by use of sorted().
         Stream<Integer> sortedStream = myList.stream().sorted();
 // Display the sorted stream by use of forEach().
