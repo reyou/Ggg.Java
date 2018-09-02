@@ -1,4 +1,4 @@
-package org.gamegogo.RegularExpressionsChapter.DemonstratingPatternMatching3;
+package org.gamegogo.RegularExpressionsChapter.RegularExpressionProcessing.DemonstratingPatternMatching3;
 
 // Use find() to find multiple subsequences.
 

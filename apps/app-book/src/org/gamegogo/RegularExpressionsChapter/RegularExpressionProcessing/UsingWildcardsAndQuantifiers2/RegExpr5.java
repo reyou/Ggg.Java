@@ -1,13 +1,12 @@
-package org.gamegogo.RegularExpressionsChapter.UsingWildcardsAndQuantifiers3;
+package org.gamegogo.RegularExpressionsChapter.RegularExpressionProcessing.UsingWildcardsAndQuantifiers2;
 
-// Use the ? quantifier.
+// Use wildcard and quantifier.
 
 import java.util.regex.*;
 
-class RegExpr6 {
+class RegExpr5 {
     public static void main(String args[]) {
-// Use reluctant matching behavior.
-        Pattern pat = Pattern.compile("e.+?d");
+        Pattern pat = Pattern.compile("e.+d");
         Matcher mat = pat.matcher("extend cup end table");
         while (mat.find())
             System.out.println("Match: " + mat.group());

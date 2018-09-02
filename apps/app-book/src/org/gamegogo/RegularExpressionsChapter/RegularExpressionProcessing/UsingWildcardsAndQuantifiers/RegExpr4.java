@@ -1,4 +1,4 @@
-package org.gamegogo.RegularExpressionsChapter.UsingWildcardsAndQuantifiers;
+package org.gamegogo.RegularExpressionsChapter.RegularExpressionProcessing.UsingWildcardsAndQuantifiers;
 
 // Use a quantifier.
 

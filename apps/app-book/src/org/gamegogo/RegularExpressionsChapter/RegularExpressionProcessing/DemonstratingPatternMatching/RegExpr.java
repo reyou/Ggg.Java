@@ -1,4 +1,4 @@
-package org.gamegogo.RegularExpressionsChapter.DemonstratingPatternMatching;
+package org.gamegogo.RegularExpressionsChapter.RegularExpressionProcessing.DemonstratingPatternMatching;
 
 // A simple pattern matching demo.
 
