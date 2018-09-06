@@ -23,3 +23,5 @@
 hs_err_pid*
 
 apps/app-book/\.idea/
+
+apps/app-book-swing/\.idea/
