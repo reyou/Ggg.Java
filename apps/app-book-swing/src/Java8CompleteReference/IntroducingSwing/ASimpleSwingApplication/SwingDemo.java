@@ -29,6 +29,9 @@ public class SwingDemo {
 
     public static void main(String args[]){
         // Create the frame on the event dispatching thread.
+        // https://docs.oracle.com/javase/8/docs/api/javax/swing/SwingUtilities.html#invokeLater-java.lang.Runnable-
+        /* The difference between the two methods is that invokeLater( ) returns immediately,
+but invokeAndWait( ) waits until obj.run( ) returns.*/
         SwingUtilities.invokeLater(() -> new SwingDemo());
     }
 
