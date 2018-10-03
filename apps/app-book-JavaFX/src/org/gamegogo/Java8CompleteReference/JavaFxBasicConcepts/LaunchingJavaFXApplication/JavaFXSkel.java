@@ -1,4 +1,4 @@
-package org.gamegogo.Java8CompleteReference.LaunchingJavaFXApplication;
+package org.gamegogo.Java8CompleteReference.JavaFxBasicConcepts.LaunchingJavaFXApplication;
 
 // A JavaFX application skeleton.
 import javafx.application.*;
