@@ -27,3 +27,5 @@ apps/app-book/\.idea/
 apps/app-book-swing/\.idea/
 
 apps/app-book-JavaFX/\.idea/
+
+apps/app-docs/docs\.oracle\.com/javase/tutorial/getStarted/cupojava/netbeans/\.idea/
