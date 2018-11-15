@@ -62,26 +62,26 @@ public class GggTestUtilities {
     // https://www.mkyong.com/java/how-to-send-http-request-getpost-in-java/
     private static void HttpPostRequest2(String url, String body) throws IOException {
         final String USER_AGENT = "Mozilla/5.0";
-        URL obj = new URL(url);
-        HttpURLConnection con = (HttpURLConnection) obj.openConnection();
+        URL urlObj = new URL(url);
+        HttpURLConnection httpURLConnection = (HttpURLConnection) urlObj.openConnection();
         //add reuqest header
-        con.setRequestMethod("POST");
-        con.setRequestProperty("User-Agent", USER_AGENT);
-        con.setRequestProperty("Accept-Language", "en-US,en;q=0.5");
+        httpURLConnection.setRequestMethod("POST");
+        httpURLConnection.setRequestProperty("User-Agent", USER_AGENT);
+        httpURLConnection.setRequestProperty("Accept-Language", "en-US,en;q=0.5");
         // Send post request
-        con.setDoOutput(true);
-        DataOutputStream wr = new DataOutputStream(con.getOutputStream());
+        httpURLConnection.setDoOutput(true);
+        DataOutputStream wr = new DataOutputStream(httpURLConnection.getOutputStream());
         wr.writeBytes(body);
         wr.flush();
         wr.close();
 
-        int responseCode = con.getResponseCode();
+        int responseCode = httpURLConnection.getResponseCode();
         System.out.println("\nSending 'POST' request to URL : " + url);
         System.out.println("Post parameters : " + body);
         System.out.println("Response Code : " + responseCode);
 
         BufferedReader in = new BufferedReader(
-                new InputStreamReader(con.getInputStream()));
+                new InputStreamReader(httpURLConnection.getInputStream()));
         String inputLine;
         StringBuffer response = new StringBuffer();
 
