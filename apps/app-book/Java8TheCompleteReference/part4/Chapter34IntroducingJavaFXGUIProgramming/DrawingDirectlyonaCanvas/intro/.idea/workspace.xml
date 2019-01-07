@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35948dd1-5d5c-4249-961e-2a04715cac43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/DirectDrawDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/app-book-JavaFX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/out/production/app-book-JavaFX/org/gamegogo/Java8CompleteReference/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/out/production/app-book-JavaFX/org/gamegogo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/src/org/gamegogo/Java8CompleteReference/JavaFxBasicConcepts/DemonstrateJavaFXlabel/JavaFXLabelDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/src/org/gamegogo/Java8CompleteReference/JavaFxBasicConcepts/DemonstratingEventHandling/JavaFXEventDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/src/org/gamegogo/Java8CompleteReference/JavaFxBasicConcepts/LaunchingJavaFXApplication/JavaFXSkel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/src/org/gamegogo/Java8CompleteReference/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/src/org/gamegogo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-JavaFX/src/org/gamegogo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/app-book-swing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JComboBox/JComboBoxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JLabelAndImageIcon/JLabelDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JLabelAndImageIcon/hourglass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JList/JListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JScrollPane/JScrollPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JTable/JTableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/JTextFieldExample/JTextFieldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JButtonExample/JButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JButtonExample/analog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JButtonExample/digital.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JButtonExample/hourglass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JButtonExample/stopwatch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JCheckBoxExample/JCheckBoxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JRadioButtonExample/JRadioButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JTabbedPaneExample/CitiesPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JTabbedPaneExample/ColorsPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JTabbedPaneExample/FlavorsPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JTabbedPaneExample/JTabbedPaneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/TheSwingButtons/JToggleButtonExample/JToggleButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/ExploringSwing/Trees/JTreeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwing/ASimpleSwingApplication/SwingDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwing/EventHandlingSample/EventDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwing/PaintingInSwing/PaintExample/PaintDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwing/PaintingInSwing/PaintExample/PaintPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwing/PaintingInSwing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwingMenus/DebugActionExample/ToolbarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwingMenus/EntireMenuDemoProgram/MenuDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwingMenus/MenuDemoExample/MenuDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwingMenus/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/IntroducingSwingMenus/ToolbarExample/ToolbarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../app-book-swing/src/Java8CompleteReference/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Test.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../examples/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../out/production/app/org/gamegogo/IoAndAppletsAndOther/applets/SimpleApplet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../out/production/app/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../out/production/app/org/gamegogo/imagesSamples/Lilies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../phonebook.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../serial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/AppletFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/CreatingWindowedProgram/AppWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/CreatingWindowedProgram/MyKeyAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/CreatingWindowedProgram/MyMouseAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/CreatingWindowedProgram/MyWindowAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/DemonstratingDrawingMethods/GraphicsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/DemonstratingDrawingMethods/ResizeMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/FontSamples/ColorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/FontSamples/FontInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/FontSamples/MyMouseAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/FontSamples/SampleFonts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/FontSamples/ShowFonts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/HandlingEventsFrameWindow/MyWindowAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/HandlingEventsFrameWindow/SampleFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/HandlingEventsFrameWindow/WindowEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/SampleFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/TextSamples/CenterText.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/TextSamples/MultiLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/TextSamples/MyMouseAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/TextSamples/TextLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWT/XOR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/ButtonSamples/ButtonDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/ButtonSamples/ButtonList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/ButtonSamples/LabelDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/CheckboxSamples/CBGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/CheckboxSamples/CheckboxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/CheckboxSamples/ChoiceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/DialogBoxes/DialogDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/DialogBoxes/MenuFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/DialogBoxes/MyMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/DialogBoxes/MyWindowAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/DialogBoxes/SampleDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/FileDialog/FileDialogDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/FileDialog/SampleFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/LayoutManagers/BorderLayoutDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/LayoutManagers/CardLayoutDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/LayoutManagers/FlowLayoutDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/LayoutManagers/GridBagDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/LayoutManagers/GridLayoutDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/LayoutManagers/InsetsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/ListSamples/ListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/MenusAndMenuItems/MenuDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/MenusAndMenuItems/MenuFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/MenusAndMenuItems/MyMenuHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/MenusAndMenuItems/MyWindowAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/ScrollbarsSamples/SBDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/TextFieldSamples/TextAreaDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/AWTControls/TextFieldSamples/TextFieldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/AdapterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/AnonymousInnerClassDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/InnerClassDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/KeyEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/MouseEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/MousePressedDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/EventHandling/SimpleKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/Angles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/DoubleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/InfNaN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/IsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/PBDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/ParseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/PkgTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/Runtime/ExecDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/Runtime/ExecDemoFini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/Runtime/MemoryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/StringConversions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/System/ACDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/System/Elapsed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/System/ShowUserDir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/Thread/NewThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/Thread/ThreadGroupDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/classExamples/RTTI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/classExamples/X.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/classExamples/Y.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/clone/CloneDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/ExploringJavaLang/clone/TestClone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/GuiProgrammingWithSwing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/applets/SimpleApplet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/applets/SimpleApplet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/assertExamples/AssertDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/assertExamples/AssertDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/inputOutput/CopyFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/inputOutput/CopyFileAutoCloseable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/inputOutput/ShowFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/inputOutput/ShowFile2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/inputOutput/ShowFileAutoCloseable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/instanceofSample/InstanceOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/nativeExamples/NativeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/overloadedConstructors/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/overloadedConstructors/MyClassThis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/staticImport/Hypot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/staticImport/HypotStaticImport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/streams/BRRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/streams/BRReadLines.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/streams/BufferedReaderSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/streams/PrintWriterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/streams/TinyEdit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/streams/WriteDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/IoAndAppletsAndOther/transientAndVolatile/T.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ClassFactory/MyFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ConstructorReferences/MyFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ConstructorReferencesGeneric/ConstructorRefDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ConstructorReferencesGeneric/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ConstructorReferencesGeneric/MyFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/FindTheMaximumValue/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/GenericFunctionalInterfaces/GenericFunctionalInterfaceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/GenericFunctionalInterfaces/SomeFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/LambdaDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/LambdaDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/LambdaExpressionsAndExceptions/DoubleNumericArrayFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/MethodReferencesInstanceMethods/StringFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/MethodReferencesWithGenerics/GenericMethodRefDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/MethodReferencesWithGenerics/MyArrayOps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/MethodReferencesWithGenerics/MyFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/MyNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/NumericTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/PassingLambdaExpressions/LambdasAsArgumentsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/PassingLambdaExpressions/StringFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/PredefinedFunctionalInterfaces/UseFunctionInterfaceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ReferenceWithDifferentObjects/HighTemp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ReferenceWithDifferentObjects/InstanceMethWithObjectRefDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ReferenceWithDifferentObjects/MyFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/ReferencesToStaticMethods/StringFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/VariableCapture/MyFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/blockLambda/BlockLambdaDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/blockLambda/BlockLambdaDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/blockLambda/NumericFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/blockLambda/StringFunc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/twoParams/LambdaDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/LambdaExpressions/twoParams/NumericTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/BitSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Calendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/CurDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/DateDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/AutoCloseableFormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FieldWidthDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FormatDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FormatDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FormatDemo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FormatDemo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/FormatDemo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/LeftJustify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/PrecisionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Formatter/TimeDateFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/GregorianCalendarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Observable/Multi/Watcher1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Observable/Watcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/OptionalDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/RandDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/ResourceBundle/LRBDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/ResourceBundle/SampleRB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/ResourceBundle/SampleRB_de.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/STDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Scanner/AvgFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Scanner/AvgNums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Scanner/FindInLineDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Scanner/ScanMixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/Scanner/SetDelimiters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/MoreUtilityClasses/TimerAndTimerTask/MyTimerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/FormattingDateAndTime/DateFormatClassExample/DateFormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/FormattingDateAndTime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/FormattingDateAndTime/SimpleDateFormatExample/SimpleDateFormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/FormattingDateAndTime/TimeFormatExample/TimeFormatDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/ReflectionExamples/Demo1/ReflectionDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/ReflectionExamples/Demo2/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/ReflectionExamples/Demo2/ReflectionDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/DemonstratingPatternMatching/RegExpr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/DemonstratingPatternMatching2/RegExpr2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/DemonstratingPatternMatching3/RegExpr3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/UsingReplaceAll/RegExpr8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/UsingSplit/RegExpr9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/UsingWildcardsAndQuantifiers/RegExpr4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/UsingWildcardsAndQuantifiers2/RegExpr5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/UsingWildcardsAndQuantifiers3/RegExpr6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RegularExpressionProcessing/WorkingWithClassesOfCharacters/RegExpr7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RemoteMethodInvocation/Demo1/AddClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RemoteMethodInvocation/Demo1/AddServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RemoteMethodInvocation/Demo1/AddServerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/RemoteMethodInvocation/Demo1/AddServerIntf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/TheTimeAndDateApi/DateAndTimePattern/DateTimeDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/TheTimeAndDateApi/DateTimeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/TheTimeAndDateApi/DateTimeFormatterExample/DateTimeDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/TheTimeAndDateApi/ParseDateAndTime/DateTimeDemo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/RegularExpressionsChapter/TheTimeAndDateApi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/ChangeCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/ConCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/EqualsNotEqualTo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/IndexOfDemoStringBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/ReverseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/SortString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/StringBufferDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/StringJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/StringReplace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/SubStringCons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/UseTrim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/appendDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/deleteDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/equalsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/getCharsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/indexOfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/insertDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/replaceDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/StringHandling/setCharAtDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/AlgorithmsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/ArrayDequeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/ArrayListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/ArrayListToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/ArraysDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/ForEachDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/HashMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/HashSetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/IteratorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/HTDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/HTDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/Phonebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/PropDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/PropDemoDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/StackDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/Legacy/VectorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/LinkedListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/SpliteratorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/SpliteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/TreeMapDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/TreeSetDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/UsingAComparator/CompDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/UsingAComparator/CompLastNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/UsingAComparator/MyComp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheCollectionsFramework/UsingAComparator/TComp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/AtomicOperationsExample/AtomThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/AtomicOperationsExample/AtomicDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/AtomicOperationsExample/Shared.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/LockExample/LockDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/LockExample/LockThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/LockExample/Shared.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/ForkJoinExample/ForkJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/ForkJoinExample/SqrtTransform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/ParallelismLevelExample/FJExperiment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/ParallelismLevelExample/Transform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/RecursiveTaskExample/RecurTaskDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/ParallelProgrammingChapter/RecursiveTaskExample/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingAnExecuter/CallableExample/CallableDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingAnExecuter/ExecuterExample/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingAnExecuter/ExecuterExample/SimpExec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/CountDownLatchExample/CDLDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/CountDownLatchExample/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/CyclicBarrierExample/BarAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/CyclicBarrierExample/BarDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/CyclicBarrierExample/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/ExchangerExample/ExgrDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/ExchangerExample/MakeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/ExchangerExample/UseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/PhaserExample/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/PhaserExample/PhaserDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/PhaserExtendedExample/MyPhaser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/PhaserExtendedExample/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/PhaserExtendedExample/PhaserDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemDemoPackage/DecThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemDemoPackage/IncThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemDemoPackage/SemDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemDemoPackage/Shared.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemSecondDemo/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemSecondDemo/ProdCon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemSecondDemo/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheConcurrencyUtilities/UsingSynchronizationObjects/SemSecondDemo/Q.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/CollectingExample/NamePhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/CollectingExample/NamePhoneEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/CollectingExample/StreamDemo7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/IteratorsAndStreams/IteratorSample/StreamDemo8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/IteratorsAndStreams/SpliteratorSample/StreamDemo9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/IteratorsAndStreams/SpliteratorSample2/StreamDemo10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/MappingExample/StreamDemo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/MappingExample2/NamePhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/MappingExample2/NamePhoneEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/MappingExample2/StreamDemo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/MappingExample3/StreamDemo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/ReductionOperations/StreamDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/SimpleStreamExample/StreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/TheStreamApi/UsingParallelStreams/StreamDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/AccessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/CommandLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Overload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/OverloadCons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/OverloadCons2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/OverloadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/PassArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/PassOb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/RecTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Recursion2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/RetOb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/StaticDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/StringDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/StringDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/StringDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/TestAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/TestStack2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/UseStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/VarArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/VarArgs2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/closerLookAtMethodsAndClasses/VarArgs3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Break.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/BreakLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/BreakLoop2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/BreakLoop3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/BreakLoop4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Continue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/ContinueLabel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/FindPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/ForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/ForEach2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/ForEach3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/ForVar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/MissingBreak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Nested.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/NoChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Return.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/SampleSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/StringSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/controlStatements/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AnnotationSamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AskMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AutoBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AutoBox2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AutoBox3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AutoBox4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/AutoBox5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/EnumDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/EnumDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/EnumDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/EnumDemo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/Marker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/Meta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/RepeatingAnnotations/RepeatAnno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/Single.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/TypeAnnoDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/UnboxingError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/Wrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/enumerationFundamentals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/reflection/Meta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/enumAutoboxingAnnotations/reflection/Meta2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/ChainExcDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/Exc0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/Exc1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/Exc2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/FinallyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/HandleError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/MethNestTry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/MultiCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/MultipleCatches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/MyException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/NestTry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/SuperSubCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/ThrowDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/exceptionHandling/ThrowsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/AGenericSubclass/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/AGenericSubclass/HierDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/AGenericSubclass/NonGen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BoundedWildcards/Coords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BoundedWildcards/FourD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BoundedWildcards/ThreeD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BoundedWildcards/TwoD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BoundsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BridgeMethods/BridgeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BridgeMethods/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/BridgeMethods/Gen2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/CreatingAGenericMethod/GenMethDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/GenDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/GenericConstructors/GenCons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/GenericConstructors/GenConsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/GenericInterfaces/GenIFDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/GenericInterfaces/MinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/GenericInterfaces/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/NonGen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/NonGenDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/OverridingMethods/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/OverridingMethods/Gen2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/OverridingMethods/OverrideDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/RawTypesandLegacyCode/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/RawTypesandLegacyCode/RawDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/RunTimeTypeComparisons/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/RunTimeTypeComparisons/Gen2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/RunTimeTypeComparisons/HierDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/SimpGen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/Stats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/StatsNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/StatsWildcard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/TwoGen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/UsingaGenericSuperclass/Gen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/UsingaGenericSuperclass/Gen2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/UsingaGenericSuperclass/Gen3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/UsingaGenericSuperclass/HierDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/generics/WildcardDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/gggUtilities/ListSystemProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/imagesSamples/DoubleBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/imagesSamples/HistoGrab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/imagesSamples/Lilies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/imagesSamples/MemoryImageGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/imagesSamples/SimpleImageLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/imagesSamples/TrackedImageLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/BoxWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/CallingCons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/ColorBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/DemoBoxWeight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/DemoShipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/DemoSuper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Dispatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/FindAreas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Override.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/RefDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Shipment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/SimpleInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/UseSuper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/AbstractAreas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/AbstractDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/abstractSamples/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inheritence/finalSamples/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/BufferedInputStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/BufferedReaderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/ByteArrayInputStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/ByteArrayInputStreamReset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/ByteArrayOutputStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/CharArrayReaderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/CharArrayWriterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/ConsoleDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/DataIODemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/DirList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/FileDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/FileInputStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/FileOutputStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/FileOutputStreamDemoTryWith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/FileReaderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/FileWriterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/InputStreamEnumerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/OnlyExt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/PrintfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/PushbackInputStreamDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/PushbackReaderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/inputOutput/SerializationDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/Box.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/BoxDemo7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/introducingClasses/TestStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/CurrentThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/NewThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/ThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/correctProducerConsumer/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/correctProducerConsumer/PCFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/correctProducerConsumer/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/correctProducerConsumer/Q.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/deadlockExample/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/deadlockExample/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/deadlockExample/Deadlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/incorrectProducerConsumer/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/incorrectProducerConsumer/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/incorrectProducerConsumer/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/incorrectProducerConsumer/Q.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/isAlive/DemoJoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/isAlive/NewThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/multipleThreads/MultiThreadDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/multipleThreads/NewThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/overridesExamples/ExtendThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/overridesExamples/NewThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/suspendResumeThreads/NewThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/suspendResumeThreads/SuspendResume.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/synchronizedMethods/CallMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/synchronizedMethods/Caller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/synchronizedMethods/Synch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/synchronizedStatement/CallMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/synchronizedStatement/Caller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/multithreadedProgramming/synchronizedStatement/Synch1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/networking/HttpURLDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/networking/InetAddressTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/networking/UCDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/networking/URLDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/networking/Whois.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/networking/WriteServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/DirList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/DirList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/ExplicitChannelRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/ExplicitChannelRead2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/ExplicitChannelWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/MappedChannelRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/MappedChannelWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/MyFileVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/NIOCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/NIOStreamWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/PathDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/ShowFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/preJdk7/ExplicitChannelRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/preJdk7/ExplicitChannelWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/preJdk7/MappedChannelRead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/nio/preJdk7/MappedChannelWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/AutoArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Average.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/BasicMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/BitLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/BlockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/BoolLogic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/ByteShift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/ByteUShift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/ForTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/HexByte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/IfSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/IncDec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/LifeTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Modulus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/MultByTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/OpBitEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/OpEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Promote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Scope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/Ternary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/ThreeDMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/TwoDAgain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/overview/TwoDArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/AccountBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/AnotherClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/AskMe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Balance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Callback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/DefaultMethodDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Derived.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/DynStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/FixedStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/IFTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/IFTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Incomplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/IntStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/MyIF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/MyIFImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/MyIFImp2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/OtherPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Protection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Protection2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/SamePackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/SharedConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/TestBalance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/TestIface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/TestIface2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/extendedInterfaces/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/extendedInterfaces/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/extendedInterfaces/IFExtend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/extendedInterfaces/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/nestedInterfaces/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/nestedInterfaces/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/nestedInterfaces/IFTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../src/org/gamegogo/packagesAndInterfaces/nestedInterfaces/NestedIFDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../test.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1701150676">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/DirectDrawDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/DirectDrawDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2188" />
+    <option name="y" value="333" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546891629221" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DirectDrawDemo">
+    <configuration name="DirectDrawDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DirectDrawDemo" />
+      <module name="intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="intro" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DirectDrawDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DirectDrawDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35948dd1-5d5c-4249-961e-2a04715cac43" name="Default Changelist" comment="" />
+      <created>1546891344707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546891344707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1974" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25192943" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2068607" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/DirectDrawDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
