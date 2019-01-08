@@ -22,16 +22,5 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
-apps/app-book/\.idea/
+**/.idea/
 
-apps/app-book-swing/\.idea/
-
-apps/app-book-JavaFX/\.idea/
-
-apps/app-docs/docs\.oracle\.com/javase/tutorial/getStarted/cupojava/netbeans/\.idea/
-
-apps/app-docs/docs\.oracle\.com/javase/tutorial/java/annotations/declaring/\.idea/
-
-apps/app-docs/docs\.oracle\.com/javase/tutorial/java/annotations/repeating/\.idea/
-
-apps/app-docs/docs\.oracle\.com/javase/tutorial/java/IandI/super/\.idea/
