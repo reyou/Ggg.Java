@@ -1,0 +1,1 @@
+classes directory under WEB-INF is for your Java classes.

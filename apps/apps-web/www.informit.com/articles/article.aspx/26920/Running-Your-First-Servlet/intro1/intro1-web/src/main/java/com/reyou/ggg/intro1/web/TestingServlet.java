@@ -14,10 +14,9 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author reyou
- * http://localhost:8080/intro1-web/SimpleServlet
+ * @author aozdemir
  */
-public class SimpleServlet extends HttpServlet {
+public class TestingServlet extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
@@ -31,20 +30,17 @@ public class SimpleServlet extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
-        PrintWriter out = response.getWriter();
-        try {
-// Place page output here
+        try (PrintWriter out = response.getWriter()) {
+            /* TODO output your page here. You may use following sample code. */
+            out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet SimpleServlet</title>");
+            out.println("<title>Servlet TestingServlet</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h2>Servlet SimpleServlet at " + request.getContextPath() + "</h2>");
-            out.println("<br/>Welcome to Java EE Recipes!");
+            out.println("<h1>Servlet TestingServlet at " + request.getContextPath() + "</h1>");
             out.println("</body>");
             out.println("</html>");
-        } finally {
-            out.close();
         }
     }
 
@@ -73,7 +69,7 @@ public class SimpleServlet extends HttpServlet {
      */
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {        
+            throws ServletException, IOException {
         processRequest(request, response);
     }
 
